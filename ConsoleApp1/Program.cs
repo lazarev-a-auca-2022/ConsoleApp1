@@ -1,7 +1,7 @@
 ﻿
 class Program
 {
-    private const int MaxFiles = 3;
+    private const int MaxFiles = 100000;
     private static int fileCount = 0;
 
     static void Main(string[] args)
